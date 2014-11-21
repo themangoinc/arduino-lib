@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRDUDEOPTIONS/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRDUDEOPTIONS/operation=replace
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRDUDEOPTIONS/value=-pm2560
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRTARGETFCPU/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRTARGETFCPU/operation=replace
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRTARGETFCPU/value=160000000
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRTARGETMCU/delimiter=\:
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRTARGETMCU/operation=replace
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/AVRTARGETMCU/value=atmega2560
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/append=true
+environment/project/de.innot.avreclipse.configuration.lib.debug.1369016688.43888234.1649021639/appendContributed=true
